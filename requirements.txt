@@ -1,0 +1,6 @@
+flask==2.3.0
+werkzeug==2.3.0
+Flask-Cors==4.0.0
+Flask-SQLAlchemy==3.1.1  # Use the latest patch version within the 3.1 series
+Flask-Migrate==4.0.5
+PyJWT==2.8.0
